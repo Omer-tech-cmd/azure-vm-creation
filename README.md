@@ -13,14 +13,16 @@ This tutorial will show how to create and remotely connect to virtual machines i
 
 - Windows 10
 
-<h2>Prerequirements</h2>
+<h2>Prerequisites</h2>
 
-- Logging in and subscribing to Microsoft Azure 
+- Log in and subscribe to Microsoft Azure.
+ 
 
 <h2>Creating Our First Resource Group</h2> 
- In order to create our virtual machine, we need to create a resource group by searching "resource groups" in Microsoft Azure.
-
- Then, we click on the "create" button to create one. 
+  To create our virtual machine, we first need to create a resource group by searching for 'Resource Groups' in Microsoft Azure.
+ 
+  
+  Then, click the 'Create' button to set up the resource group.
 
 
 ![image](https://github.com/user-attachments/assets/476fa440-9f36-44ca-bce5-9131b1758378)
